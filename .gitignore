@@ -8,9 +8,10 @@ venv/
 env/
 
 # Node
-node_modules/
-dist/
-build/
+node_modules
+.env
+dist
+build
 
 # Env files
 .env
